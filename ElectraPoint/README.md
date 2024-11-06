@@ -26,18 +26,11 @@ Below you can see the interactive map as seen from the mobile interface:
 
 ## How we built the app
 <ul>
-Technologies Used:
+  Technologies Used:
   <li>HTML - Tailwind</li>
   <li>CSS</li>
   <li>JavaScript - Vanilla</li>
   <li>OpenChargeMap API</li>
   <li>MapBox API</li>
   <li>Joke API</li>
-</ul>
-
-## Authors
-<ul>
-  <li>Jose Rivera - https://github.com/sournachos</li>
-  <li>Ben Levin - https://github.com/saebr</li>
-  <li>Lucas Quatorze - https://github.com/pigodidog</li>
 </ul>
