@@ -24,12 +24,6 @@ Below you can see the interactive map as seen from the mobile interface:
 - Beautiful and polished front-end interface created using Tailwind
 - The app also features the Joke API: it retrieves some lighthearted humor for those that don't own an electric vehicle
 
-## Demo 
-
-https://user-images.githubusercontent.com/60542798/114209774-a3264a00-9924-11eb-8564-3c69b6e33903.mp4
-
-
-
 ## How we built the app
 <ul>
 Technologies Used:
