@@ -1,7 +1,3 @@
-# ElectraPoint
-Access the live deployed GitHub page with the link bellow:
-- https://sournachos.github.io/ElectraPoint/
-
 ## Introduction - What does the app do?
 Electrapoint is a simple web app that helps users find charging stations for their electric vehicles by providing an interactive map that displays all existing electric vehicle charging stations in over 96 countries. 
 
